@@ -1,3 +1,3 @@
 # Relogio-Digital
 
-# Criado assistindo o vídeo do João Tinti
+# Criado assistindo o vídeo do Programador de Software e YouTuber João Tinti. 
