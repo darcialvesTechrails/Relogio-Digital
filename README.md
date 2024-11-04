@@ -1,4 +1,4 @@
-Digital Clock
+Digital ClocK (Relogio Digital)
 
 A simple digital clock implemented with HTML, CSS, and JavaScript.
 
